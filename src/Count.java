@@ -1,4 +1,4 @@
 public Interface Count{
-	public final int a;
+	public static final int a = 1;
 	public abstract int count();
 }
